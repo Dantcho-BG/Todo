@@ -1,0 +1,12 @@
+body {
+    background-color: #DADADA;
+}
+
+body > .grid {
+    height: 100%;
+}
+
+#content {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
